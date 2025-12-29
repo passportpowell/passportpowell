@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Otis Powell
 
-<!--
-**passportpowell/passportpowell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Energy Data Analyst working with Python, machine learning, and renewable energy systems at TeraJoule.
 
-Here are some ideas to get you started:
+## What I Do
+- Build data pipelines for energy consumption analysis
+- Create predictive models for renewable energy forecasting
+- Develop interactive data visualizations and dashboards with Streamlit & Plotly
+- Work with climate data APIs and energy modeling systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- **Languages:** Python, JavaScript, SQL
+- **Data & ML:** Pandas, NumPy, Scikit-learn, TensorFlow
+- **Visualization:** Plotly, Streamlit, Matplotlib
+- **Web:** Django, React, HTML/CSS
+- **Tools:** Git, Jupyter, VS Code
+
+## Current Focus
+Working on energy system modeling and exploring AI applications in renewable energy analytics.
+
+## Get in Touch
+- LinkedIn: [linkedin.com/in/otispowell](https://www.linkedin.com/in/otispowell/)
+- Location: Birmingham, UK
