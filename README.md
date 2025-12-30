@@ -30,15 +30,5 @@ Building more robust analytics and visualization patterns for climate and energy
 ## Get in Touch
 
 * LinkedIn: [https://www.linkedin.com/in/otispowell/](https://www.linkedin.com/in/otispowell/) ([GitHub][1])
-* Location: Birmingham, UK
+* Location: UK
 
-### Suggested GitHub “Topics” (pick 8–12 per repo)
-
-`python`, `data-engineering`, `data-analytics`, `machine-learning`, `streamlit`, `plotly`, `data-visualization`, `api-integration`, `dashboards`, `docker`, `django`, `sql`
-
-**Where to add them:** in each repo → **Settings** → **Topics** (right sidebar area on the repo page) → add keywords.
-
-[1]: https://github.com/passportpowell "passportpowell (Otis) · GitHub"
-[2]: https://github.com/passportpowell/p5-passportpowell-cherry-mildew-ml "GitHub - passportpowell/p5-passportpowell-cherry-mildew-ml"
-[3]: https://github.com/passportpowell/AI-Travel-Planner-with-LLM-Integration-Interactive-Data-Visualizations "GitHub - passportpowell/AI-Travel-Planner-with-LLM-Integration-Interactive-Data-Visualizations: AI travel planner built with Streamlit, Plotly, and OpenAI. Uses Open‑Meteo climate data, crowd/cost indices, and a scoring algorithm to recommend the best months for 40+ cities. Includes LLM summaries, interactive visualizations, and a portfolio‑ready UI"
-[4]: https://github.com/passportpowell/p4-passportpowell-travel-blog-django "GitHub - passportpowell/p4-passportpowell-travel-blog-django"
