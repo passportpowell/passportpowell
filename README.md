@@ -11,7 +11,7 @@ AI & Energy Data Engineer working on production-grade data pipelines, automation
 
 ## Tech Stack
 
-* **Languages:** Python, JavaScript, SQL ([GitHub][1])
+* **Languages:** Python, ([GitHub][1])
 * **Data & ML:** Pandas, NumPy, Scikit-learn, TensorFlow/Keras ([GitHub][2])
 * **Visualization:** Plotly, Streamlit, Matplotlib ([GitHub][3])
 * **Web:** Django, HTML/CSS ([GitHub][4])
