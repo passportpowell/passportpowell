@@ -29,6 +29,6 @@ Building more robust analytics and visualization patterns for climate and energy
 
 ## Get in Touch
 
-* LinkedIn: [https://www.linkedin.com/in/otispowell/](https://www.linkedin.com/in/otispowell/) ([GitHub][1])
+* LinkedIn: [https://www.linkedin.com/in/otispowell/](https://www.linkedin.com/in/otispowell/)
 * Location: UK
 
