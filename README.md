@@ -1,34 +1,45 @@
 # Hi, I’m Otis Powell
 
-AI & Energy Data Engineer working on production-grade data pipelines, automation, and interactive dashboards for decision support.
+Software Engineer and Data Analyst building production dashboards, AI-assisted tools, and data pipelines, with a focus on energy and decision support.
 
 ## What I Do
+- Build production-grade web apps and dashboards (Streamlit + Plotly)
+- Develop data pipelines and ETL workflows (CSV/Parquet, validation, monitoring)
+- Deploy containerized apps with Docker on cloud infrastructure (AWS EC2)
+- Integrate LLMs and RAG systems for automation and knowledge retrieval
 
-* Build end-to-end data workflows: ingestion (APIs), cleaning, feature engineering, and analytics
-* Develop ML prototypes for classification and forecasting, then package them into usable tools
-* Create interactive data visualizations and dashboards with Streamlit + Plotly
-* Turn messy datasets into clear stories: charts, scoring models, and exportable outputs
+## Live Applications (Public Demos)
+These are client-style applications with private source repos.
+
+- **PLEXOS Streamlit Studio**  
+  Explore and analyze energy model outputs with filtering and reporting  
+  https://plexos-streamlit.terajouleenergy.com/
+
+- **Demand Visualisation**  
+  Scenario comparison and trend analysis dashboards for energy demand outputs  
+  https://demandvisualisation.terajouleenergy.com/
+
+- **Joule Model Reporting Platform**  
+  Multi-page reporting UI with scenario comparison, exports, and interactive visuals  
+  https://joule-model.terajouleenergy.com/
 
 ## Tech Stack
+- **Languages:** Python, JavaScript, SQL (basics)
+- **Data & ML:** Pandas, NumPy, scikit-learn
+- **Visualization:** Streamlit, Plotly, Matplotlib, Folium (geospatial)
+- **AI:** LLM integrations (OpenAI, Anthropic, Google GenAI, Groq), prompt engineering, function calling
+- **RAG:** Pinecone (vector search), embeddings, retrieval workflows
+- **Cloud & DevOps:** AWS (EC2, S3), Docker, Git, CI/CD basics
+- **Automation:** n8n workflow orchestration, API integrations
 
-* **Languages:** Python, ([GitHub][1])
-* **Data & ML:** Pandas, NumPy, Scikit-learn, TensorFlow/Keras ([GitHub][2])
-* **Visualization:** Plotly, Streamlit, Matplotlib ([GitHub][3])
-* **Web:** Django, HTML/CSS ([GitHub][4])
-* **Tools:** Git, Jupyter, VS Code, Docker ([GitHub][3])
-
-## Selected Work
-
-* **TravelTiming (Streamlit + Plotly + OpenAI + Open-Meteo):** travel recommendation app with scoring algorithm, API-driven climate data, and interactive visualizations ([GitHub][3])
-* **Powdery Mildew Detection (ML + Streamlit):** real-time image classification dashboard, deployed as a live app ([GitHub][2])
-* **Django Travel Blog:** full-stack app with authentication, Cloudinary media uploads, and PostgreSQL support ([GitHub][4])
+## Selected Work (Public Repos)
+- **TravelTiming (Streamlit + Plotly + APIs):** interactive travel recommendation app  
+- **Powdery Mildew Detection (ML + Streamlit):** image classification dashboard  
+- **Django Travel Blog:** full-stack app with authentication and PostgreSQL support  
 
 ## Current Focus
-
-Building more robust analytics and visualization patterns for climate and energy datasets, with an emphasis on reusable pipeline components and dashboard-first delivery.
+Building scalable AI-assisted software systems, stronger deployment patterns, and reusable data tooling for real-world analytics products.
 
 ## Get in Touch
-
-* LinkedIn: [https://www.linkedin.com/in/otispowell/](https://www.linkedin.com/in/otispowell/)
-* Location: UK
-
+- LinkedIn: https://www.linkedin.com/in/otispowell/
+- Location: UK
