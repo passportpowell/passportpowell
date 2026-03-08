@@ -11,6 +11,10 @@ Software Engineer and Data Analyst building production dashboards, AI-assisted t
 ## Live Applications (Public Demos)
 These are client-style applications with private source repos.
 
+- **Travel Site**  
+  Explore and plan your own holiday itinararies 
+  https://www.passportpowell.com
+
 - **PLEXOS Streamlit Studio**  
   Explore and analyze energy model outputs with filtering and reporting  
   https://plexos-streamlit.terajouleenergy.com/
@@ -41,5 +45,6 @@ These are client-style applications with private source repos.
 Building scalable AI-assisted software systems, stronger deployment patterns, and reusable data tooling for real-world analytics products.
 
 ## Get in Touch
+- Website: https://www.passportpowell.com
 - LinkedIn: https://www.linkedin.com/in/otispowell/
 - Location: UK
