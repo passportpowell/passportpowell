@@ -12,7 +12,8 @@ Software Engineer and Data Analyst building production dashboards, AI-assisted t
 These are client-style applications with private source repos.
 
 - **Travel Site**  
-  Explore and plan your own holiday itinararies 
+  Explore and plan your own holiday itinararies
+  
   https://www.passportpowell.com
 
 - **PLEXOS Streamlit Studio**  
