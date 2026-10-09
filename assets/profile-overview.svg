@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Otis Powell — Software and Data Engineering</title>
+  <desc id="desc">Python, TypeScript, data products and practical AI for energy and decision support.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101b31"/>
+      <stop offset="1" stop-color="#182d43"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4fd1c5"/>
+      <stop offset="1" stop-color="#f4c66a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <path d="M740 0h460v300H850c-45-62 34-91-6-147S756 103 740 0Z" fill="#203d52" opacity=".7"/>
+  <path d="M782 222c49-51 80 25 127-24s70-58 111-17 68-18 111-71" fill="none" stroke="url(#line)" stroke-width="5" stroke-linecap="round" opacity=".9"/>
+  <circle cx="782" cy="222" r="7" fill="#4fd1c5"/>
+  <circle cx="908" cy="198" r="7" fill="#83d5ae"/>
+  <circle cx="1020" cy="181" r="7" fill="#d3d282"/>
+  <circle cx="1131" cy="110" r="7" fill="#f4c66a"/>
+  <text x="72" y="91" fill="#f4c66a" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="600" letter-spacing="3">SOFTWARE + DATA</text>
+  <text x="70" y="155" fill="#f5f7fa" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="700">Otis Powell</text>
+  <text x="72" y="198" fill="#c6d3de" font-family="Segoe UI, Arial, sans-serif" font-size="21">Python · TypeScript · data products · practical AI</text>
+  <text x="72" y="242" fill="#a8c2d2" font-family="Segoe UI, Arial, sans-serif" font-size="18">Energy modelling and decision support</text>
+</svg>

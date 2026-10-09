@@ -1,51 +1,33 @@
-# Hi, I’m Otis Powell
+<p align="center">
+  <img src="./assets/profile-overview.svg" alt="Otis Powell — Software and Data Engineer working across Python, TypeScript, data products, practical AI and energy decision support" width="100%" />
+</p>
 
-Software Engineer and Data Analyst building production dashboards, AI-assisted tools, and data pipelines, with a focus on energy and decision support.
+# Hi, I'm Otis Powell
 
-## What I Do
-- Build production-grade web apps and dashboards (Streamlit + Plotly)
-- Develop data pipelines and ETL workflows (CSV/Parquet, validation, monitoring)
-- Deploy containerized apps with Docker on cloud infrastructure (AWS EC2)
-- Integrate LLMs and RAG systems for automation and knowledge retrieval
+I'm a Software & Data Engineer building data products, web applications and decision-support tools. My work spans Python, TypeScript, analytics, automation and practical AI integrations.
 
-## Live Applications (Public Demos)
-These are client-style applications with private source repos.
+## Selected work
 
-- **Travel Site**  
-  Explore and plan your own holiday itinararies
-  
-  https://www.passportpowell.com
+| Project | What it demonstrates |
+| --- | --- |
+| [EV vs ICE Intelligence Lab](https://github.com/passportpowell/EV-vs-ICE-Intelligence-Lab-Full-Stack-AI-Data-Product) | UK vehicle cost-of-ownership comparison with a Python pipeline and TypeScript application. The pipeline is under repair; a working public flow is not yet claimed. [Source and CI status](https://github.com/passportpowell/EV-vs-ICE-Intelligence-Lab-Full-Stack-AI-Data-Product/actions). |
+| [TravelTiming](https://github.com/passportpowell/travel-climate-analyzer) | Climate-based travel recommendations, scoring and optional OpenAI summaries. Local setup and destination selection verified 9 October 2026; a hosted demo is not verified. |
+| [UK Dating Pool Calculator](https://github.com/passportpowell/uk-dating-pool-calculator-streamlit) | An evidence-led demographic estimate explorer using published UK datasets, with its inputs and assumptions documented in the repository. |
 
-- **PLEXOS Streamlit Studio**  
-  Explore and analyze energy model outputs with filtering and reporting  
-  https://plexos-streamlit.terajouleenergy.com/
+## Energy decision support
 
-- **Demand Visualisation**  
-  Scenario comparison and trend analysis dashboards for energy demand outputs  
-  https://demandvisualisation.terajouleenergy.com/
+At Terajoule, I build energy-modelling and decision-support tools, including PLEXOS-oriented reporting, demand visualisation and scenario comparison. Client systems and data are private; this summary describes the work at a high level.
 
-- **Joule Model Reporting Platform**  
-  Multi-page reporting UI with scenario comparison, exports, and interactive visuals  
-  https://joule-model.terajouleenergy.com/
+## Personal project
 
-## Tech Stack
-- **Languages:** Python, JavaScript, SQL (basics)
-- **Data & ML:** Pandas, NumPy, scikit-learn
-- **Visualization:** Streamlit, Plotly, Matplotlib, Folium (geospatial)
-- **AI:** LLM integrations (OpenAI, Anthropic, Google GenAI, Groq), prompt engineering, function calling
-- **RAG:** Pinecone (vector search), embeddings, retrieval workflows
-- **Cloud & DevOps:** AWS (EC2, S3), Docker, Git, CI/CD basics
-- **Automation:** n8n workflow orchestration, API integrations
+[Passport Powell](https://www.passportpowell.com) is my travel website, built to help people explore and plan trips.
 
-## Selected Work (Public Repos)
-- **TravelTiming (Streamlit + Plotly + APIs):** interactive travel recommendation app  
-- **Powdery Mildew Detection (ML + Streamlit):** image classification dashboard  
-- **Django Travel Blog:** full-stack app with authentication and PostgreSQL support  
+## Tools I use
 
-## Current Focus
-Building scalable AI-assisted software systems, stronger deployment patterns, and reusable data tooling for real-world analytics products.
+Python · TypeScript and JavaScript · SQL · Pandas · scikit-learn · Streamlit · Plotly · Next.js · Docker · AWS
 
-## Get in Touch
-- Website: https://www.passportpowell.com
-- LinkedIn: https://www.linkedin.com/in/otispowell/
-- Location: UK
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/otispowell/) · [Passport Powell](https://www.passportpowell.com)
+
+Based in the United Kingdom.
