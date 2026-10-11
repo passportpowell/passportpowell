@@ -4,30 +4,54 @@
 
 # Hi, I'm Otis Powell
 
-I'm a Software & Data Engineer building data products, web applications and decision-support tools. My work spans Python, TypeScript, analytics, automation and practical AI integrations.
+I'm a **Software & Data Engineer** building production-grade data products, interactive web applications, and decision-support systems. My engineering practice bridges quantitative modeling in Python, resilient full-stack applications in TypeScript/Next.js, and practical AI integrations.
 
-## Selected work
+[![Author](https://img.shields.io/badge/Author-passportpowell-D4AF37?style=for-the-badge&logo=github&logoColor=white)](https://github.com/passportpowell)
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-App%20Router-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Otis%20Powell-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otispowell/)
 
-| Project | What it demonstrates |
-| --- | --- |
-| [EV vs ICE Intelligence Lab](https://github.com/passportpowell/EV-vs-ICE-Intelligence-Lab-Full-Stack-AI-Data-Product) | UK vehicle comparison app with a Python data pipeline. Its hosted scenario control responds, but fuel prices are labelled 25 Dec 2017 and the deployment version is not identified; current costs are not verified. [Source and CI status](https://github.com/passportpowell/EV-vs-ICE-Intelligence-Lab-Full-Stack-AI-Data-Product/actions). |
-| [TravelTiming](https://github.com/passportpowell/travel-climate-analyzer) | Climate-based travel recommendations, scoring and optional OpenAI summaries. Local setup and destination selection verified 9 October 2026; a hosted demo is not verified. |
-| [UK Dating Pool Calculator](https://github.com/passportpowell/uk-dating-pool-calculator-streamlit) | Evidence-led demographic estimate explorer using published UK datasets. Outputs are modelled population estimates, not personal odds. |
+---
 
-## Energy decision support
+## ðŸ›ï¸ Selected Engineering Work
 
-At Terajoule, I work on energy-modelling and decision-support tools, including PLEXOS-oriented reporting, demand visualisation and scenario comparison. Client systems and data are private; this summary describes the work at a high level.
+| Project | Domain & Technical Highlights |
+| :--- | :--- |
+| **[EV vs ICE Intelligence Lab](https://github.com/passportpowell/EV-vs-ICE-Intelligence-Lab-Full-Stack-AI-Data-Product)** | Full-stack vehicle comparison engine and Python data pipeline. Evaluates total cost of ownership (TCO) and lifecycle carbon emissions through dynamic assumption controls and sensitivity modeling. |
+| **[TravelTiming](https://github.com/passportpowell/travel-climate-analyzer)** | Climate-driven travel recommendation engine. Pairs multi-year historical meteorological datasets with multi-criteria preference scoring algorithms and contextual OpenAI summaries. |
+| **[UK Dating Pool Calculator](https://github.com/passportpowell/uk-dating-pool-calculator-streamlit)** | Evidence-led demographic modeling explorer. Synthesizes published UK census and demographic statistics into transparent probabilistic models with interactive JavaScript controls. |
+| **[L'Atelier Olfactif](https://github.com/passportpowell/fragrance-dashboard)** | Haute parfumerie digital archive and interactive dashboard. Features algorithmic Scent-of-the-Day recommendations, an olfactory accord compatibility matrix, and contextual occasion curation. |
 
-## Personal project
+---
 
-[Passport Powell](https://www.passportpowell.com) is my travel website, built to help people explore and plan trips.
+## âš¡ Energy Systems & Decision Support
 
-## Project stack
+At **Terajoule**, I engineer mathematical modeling pipelines and decision-support platforms for national and enterprise energy infrastructure:
+- **Pipeline Engineering**: Automated transformation workflows bridging PyPSA, Open-TYNDP datasets, and PLEXOS 11 schema specifications.
+- **Analytical Tooling**: High-dimensional demand modeling, cross-scenario dispatch comparisons, and executive visualization dashboards.
+- *Note: Commercial client systems, models, and proprietary datasets remain strictly private.*
 
-Python | TypeScript | JavaScript | SQL | Pandas | scikit-learn | Streamlit | Plotly | Next.js | OpenAI API
+---
 
-## Contact
+## ðŸŒ Personal Ventures
 
-[LinkedIn](https://www.linkedin.com/in/otispowell/)
+* **[Passport Powell](https://www.passportpowell.com)** â€” Independent travel publication, photography archive, and interactive expedition journals exploring architecture, cultures, and global routes.
 
-Based in the United Kingdom.
+---
+
+## ðŸ› ï¸ Technology Stack
+
+| Domain | Core Tools & Frameworks |
+| :--- | :--- |
+| **Data & Scientific** | Python, Pandas, NumPy, scikit-learn, SQL, PyPSA, PLEXOS |
+| **Web & Interfaces** | TypeScript, Next.js, React, Tailwind CSS, Streamlit, Plotly, Vanilla ES6+ |
+| **AI & Automation** | OpenAI API, Claude API, Prompt Engineering, Agentic Workflows |
+
+---
+
+## ðŸ“« Connect
+
+- **LinkedIn**: [linkedin.com/in/otispowell](https://www.linkedin.com/in/otispowell/)
+- **Website**: [passportpowell.com](https://www.passportpowell.com)
+- **Location**: United Kingdom
