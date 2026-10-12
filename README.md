@@ -34,4 +34,4 @@ I built **[passportpowell.com](https://www.passportpowell.com)**, my travel webs
 
 For engineering opportunities, project enquiries or collaboration: **[LinkedIn](https://www.linkedin.com/in/otispowell/)**.
 
-Based in the United Kingdom · [Passport Powell](https://www.passportpowell.com)
+British and St Kitts and Nevis dual citizen, based in the United Kingdom. · [Passport Powell](https://www.passportpowell.com)
