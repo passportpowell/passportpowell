@@ -12,6 +12,8 @@ I'm interested in software and data engineering opportunities, freelance project
 - **[TravelTiming](https://github.com/passportpowell/travel-climate-analyzer)** — A Streamlit application that ranks destinations using historical climate data and preference scoring, with optional AI summaries. The repository explains its data, scoring and local setup.
 - **[UK Dating Pool Calculator](https://github.com/passportpowell/uk-dating-pool-calculator-streamlit)** — An interactive population estimate explorer using published UK demographic statistics. Its [methodology](https://github.com/passportpowell/uk-dating-pool-calculator-streamlit/blob/main/v3/AUDIT.md) documents sources, denominators and approximation limits. Estimates describe populations, not personal dating odds.
 
+- **[Fragrance Collection](https://github.com/passportpowell/fragrance-dashboard)** — A personal catalogue in HTML, CSS and vanilla JavaScript with search, occasion filters and detail views. Changes stay in the current browser; recommendations use curated heuristics. The README links the interaction code and records a bounded live review.
+
 ## Energy systems and decision support
 
 At **Terajoule**, I work on energy modelling pipelines, data transformation and analytical tools. This includes preparing data for PyPSA and PLEXOS workflows, exploring demand and scenario outputs, and building dashboards that make model assumptions and results easier to inspect.
