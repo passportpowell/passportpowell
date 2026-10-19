@@ -2,36 +2,48 @@
 
 # Hi, I'm Otis Powell
 
-I'm a **Software & Data Engineer** building data pipelines, interactive web applications and tools that help people explore decisions. I work across Python, SQL, TypeScript, React and practical AI integration.
+I'm a **Software & Data Engineer** working on energy-system software: interactive data visualisation, AI assistants for energy modelling, PLEXOS and PyPSA data pipelines, and the websites that make that work understandable. I work across Python, SQL, TypeScript, Next.js and applied LLM tooling.
 
-I'm interested in software and data engineering opportunities, freelance projects and collaborations where clear assumptions and useful interfaces matter.
+Open to engineering roles, freelance projects and collaboration.
 
-## Selected work
+## Live work
 
-- **[EV vs ICE Intelligence Lab](https://github.com/passportpowell/EV-vs-ICE-Intelligence-Lab-Full-Stack-AI-Data-Product)** — A portfolio prototype combining a Python data pipeline, SQLite artifacts, Next.js APIs and a React dashboard for vehicle cost and emissions comparisons. Explore the [pipeline](https://github.com/passportpowell/EV-vs-ICE-Intelligence-Lab-Full-Stack-AI-Data-Product/tree/main/pipeline) and [test coverage](https://github.com/passportpowell/EV-vs-ICE-Intelligence-Lab-Full-Stack-AI-Data-Product/tree/main/tests). Results depend on source dates and adjustable assumptions; read its current status before using the demo.
-- **[TravelTiming](https://github.com/passportpowell/travel-climate-analyzer)** — A Streamlit application that ranks destinations using historical climate data and preference scoring, with optional AI summaries. The repository explains its data, scoring and local setup.
-- **[UK Dating Pool Calculator](https://github.com/passportpowell/uk-dating-pool-calculator-streamlit)** — An interactive population estimate explorer using published UK demographic statistics. Its [methodology](https://github.com/passportpowell/uk-dating-pool-calculator-streamlit/blob/main/v3/AUDIT.md) documents sources, denominators and approximation limits. Estimates describe populations, not personal dating odds.
+Most of the source code below is private, but you can explore each project in your browser.
 
-- **[Fragrance Collection](https://github.com/passportpowell/fragrance-dashboard)** — A personal catalogue in HTML, CSS and vanilla JavaScript with search, occasion filters and detail views. Changes stay in the current browser; recommendations use curated heuristics. The README links the interaction code and records a bounded live review.
+### [Project Artemis: Visualisations](https://projectartemis.terajouleenergy.com/visualisations)
+*Terajoule Energy · interactive energy-system visualisation*
 
-## Energy systems and decision support
+An interactive explorer for an energy model of a lunar base in its 2035 reference case. You can view one hour or the whole year across electricity generation and demand (solar, nuclear, fuel-cell backup and battery), water production and reserves, electrolysis, oxygen demand and rover charging. A Lunar Atlas view sits alongside the charts. Every chart comes from the same saved model solution as the report. You can switch between hourly values, daily averages and yearly totals, and download the plotted data with its sources.
 
-At **Terajoule**, I work on energy modelling pipelines, data transformation and analytical tools. This includes preparing data for PyPSA and PLEXOS workflows, exploring demand and scenario outputs, and building dashboards that make model assumptions and results easier to inspect.
+### [Nohm: Energy intelligence platform](https://nohm-website-v2.vercel.app/)
+*Exajoule Ireland with Terajoule Energy · product website and platform*
 
-Commercial client systems and proprietary datasets remain private. Public repositories demonstrate selected techniques and independent projects.
+Nohm helps energy analysts build a scenario, assess its economics and explain the result, with each assumption traceable to its source. I worked on:
 
-## Passport Powell
+- **The product website** (Next.js), covering Atlas, the platform, the assistant roster and the animated Readout status marks.
+- **Specialist AI assistants** with their own tools and evidence trails: Emil for PLEXOS and PyPSA modelling, Theo for economics, Lola for reporting and Nova for meetings and knowledge. Consequential model changes pause for human approval.
+- **Modelling pipelines**, including Open-TYNDP data preparation for PLEXOS and PyPSA, and PLEXOS XML automation.
+- **Hosted pilot infrastructure**: a deny-by-default gateway, Postgres with pgvector on a private network, Terraform, a threat model and release acceptance tests.
 
-I built **[passportpowell.com](https://www.passportpowell.com)**, my travel website and personal publishing project. It brings together travel writing, photography and my interest in building useful digital experiences.
+### [Passport Powell](https://www.passportpowell.com)
+*Personal project · Next.js, React, Three.js, Supabase*
+
+My travel website. It has an interactive 3D globe, 47 countries and 150 places, a photo archive of 239 of my own photographs, a journal and a day-by-day trip planner. Each destination listed is one I've actually been to.
+
+## More energy and data work
+
+- **[EV vs ICE Intelligence Lab](https://github.com/passportpowell/EV-vs-ICE-Intelligence-Lab-Full-Stack-AI-Data-Product)**: a Python/SQLite pipeline and Next.js dashboard comparing vehicle running costs and emissions, using current DESNZ fuel data. The repo has CI, end-to-end tests and CodeQL. [Live demo](https://ev-vs-ice-intelligence-lab-full-sta.vercel.app)
+- **[UK Population Estimate Explorer](https://github.com/passportpowell/uk-dating-pool-calculator-streamlit)**: interactive estimates from published UK demographic statistics, with a documented [methodology](https://github.com/passportpowell/uk-dating-pool-calculator-streamlit/blob/main/v3/AUDIT.md). [Live](https://dating-pool-pi.vercel.app/)
 
 ## Tools I use
 
-- **Data:** Python, Pandas, NumPy, scikit-learn, SQL and SQLite.
-- **Applications:** TypeScript, Next.js, React, Streamlit and Plotly.
-- **Energy and automation:** PyPSA, PLEXOS, APIs and AI-assisted workflows.
+- **Energy:** PLEXOS, PyPSA, TYNDP datasets, demand and scenario modelling.
+- **Data:** Python, pandas, NumPy, SQL, SQLite, Postgres/pgvector, AWS S3.
+- **Web and visualisation:** TypeScript, Next.js, React, Three.js, Plotly, Streamlit.
+- **AI and infrastructure:** LLM agents and MCP, Docker, Terraform, Vercel, GitHub Actions.
 
 ## Get in touch
 
-For engineering opportunities, project enquiries or collaboration: **[LinkedIn](https://www.linkedin.com/in/otispowell/)**.
+For engineering roles, projects or collaboration: **[LinkedIn](https://www.linkedin.com/in/otispowell/)**.
 
-British and St Kitts and Nevis dual citizen, based in the United Kingdom. · [Passport Powell](https://www.passportpowell.com)
+Based in the United Kingdom · [passportpowell.com](https://www.passportpowell.com)
