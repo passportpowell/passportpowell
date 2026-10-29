@@ -25,10 +25,17 @@ Nohm helps energy analysts build a scenario, assess its economics and explain th
 - **Modelling pipelines**, including Open-TYNDP data preparation for PLEXOS and PyPSA, and PLEXOS XML automation.
 - **Hosted pilot infrastructure**: a deny-by-default gateway, Postgres with pgvector on a private network, Terraform, a threat model and release acceptance tests.
 
+The application itself runs as a [hosted pilot](https://nohm-pilot.terajouleenergy.com/). Sign-in is limited to Terajoule accounts, so the public website above is the part you can explore.
+
 ### [Passport Powell](https://www.passportpowell.com)
 *Personal project · Next.js, React, Three.js, Supabase*
 
 My travel website. It has an interactive 3D globe, 47 countries and 150 places, a photo archive of 239 of my own photographs, a journal and a day-by-day trip planner. Each destination listed is one I've actually been to.
+
+### [Musu K. Powell](https://musukpowell.com/)
+*Client project · author website*
+
+A website for fantasy writer Musu K. Powell. A story-led homepage introduces her debut short story, *Wendy the Witch and the Double-Decker Bus*, with an interactive "Where's Ketty's Mark?" seek-and-find made with her illustrator, a notebook section, a newsletter signup and a contact page. Some sections are marked "coming soon" while the writing is in progress.
 
 ## More energy and data work
 
